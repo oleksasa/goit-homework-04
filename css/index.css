@@ -301,7 +301,7 @@ p {
   justify-content: center;
   align-items: center;
   border-radius: 50%;
-  transition: backgraund-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); 
   height: 100%;
 }
 
@@ -437,4 +437,5 @@ p {
 
 .container-footer-flex {
   display: flex;
+  align-items: center;
 }
