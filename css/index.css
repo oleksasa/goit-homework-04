@@ -437,5 +437,5 @@ p {
 
 .container-footer-flex {
   display: flex;
-  align-items: center;
+  align-items: baseline;
 }
